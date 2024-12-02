@@ -1,27 +1,26 @@
-# Portfolio
+# Portafolio Personal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
+Este es mi portafolio personal, donde comparto mis proyectos, habilidades y experiencia. Aquí podrás conocer más sobre mi trabajo y los proyectos en los que he estado involucrado.
 
-## Development server
+## Tecnologías Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular**: Framework utilizado para el desarrollo del frontend.
+- **HTML/CSS**: Estructura y estilos básicos de la página.
+- **TypeScript**: Lenguaje utilizado para escribir el código de Angular.
+- **Firebase**: Usado para el almacenamiento de imágenes y la gestión de datos.
 
-## Code scaffolding
+## Características
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Página de inicio (Landing Page)**: Una página de bienvenida donde los usuarios pueden aprender más sobre mí y explorar el contenido de mi portafolio.
+- **Proyectos**: Una sección donde se presentan los proyectos en los que he trabajado, incluyendo detalles y enlaces.
+- **Sobre mí**: Información sobre mi trayectoria, habilidades y experiencia profesional.
+- **Contacto**: Una sección para que los usuarios puedan ponerse en contacto conmigo.
 
-## Build
+## Instalación
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Si deseas ejecutar este portafolio en tu máquina local, sigue estos pasos:
 
-## Running unit tests
+### 1. Clona el repositorio
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+```bash
+git clone https://github.com/tu-usuario/portafolio.git
